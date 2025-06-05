@@ -1,4 +1,3 @@
-# cybersecurity-labs
 # 🛡️ Cybersecurity Labs
 
 Welcome to my curated set of cybersecurity labs covering blue team, red team, SIEM, SOAR, and hybrid cloud environments. All labs are self-contained and designed for home lab use using Proxmox, cloud services, and open-source tools.
