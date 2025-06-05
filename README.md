@@ -7,9 +7,9 @@ Welcome to my curated set of cybersecurity labs covering blue team, red team, SI
 
 | Lab | Type | Tools | Link |
 |-----|------|-------|------|
-| Lab 01: Detecting Cobalt Strike | Detection | Splunk, Sysmon | [Lab 01](./labs/lab-01-detecting-cobalt-strike) |
-| Lab 02: Azure AD Password Spray | Cloud Attack | AADInternals, Sentinel | [Lab 02](./labs/lab-02-password-spray) |
-| Lab 03: SOAR Automation for Phishing | SOAR | Cortex XSOAR, O365 | [Lab 03](./labs/lab-03-soar-phishing) |
+| Lab 01: SIEM Implementation | Blue Team | Splunk, Wazuh, QRadar | [Lab 01](./labs/lab-01-SIEM-implementation) |
+| Lab 02: IDS and IPS implementation | Blue Team | Snort, Suricata | [Lab 02](./labs/lab-02-IDS-IPS-implementation) |
+| Lab 03: log integrations | Blue Team | Sysmon, Windows Events, Firewall | [Lab 03](./labs/lab-03-log-integration) |
 
 ## 📖 How to Use
 - Each lab has its own folder with setup steps, diagrams, and sample artifacts.
