@@ -5,6 +5,8 @@ The goals of this lab are to
 1. learn how to install different SIEM tools that are present in common cyber security postures
 2. compare and contrast the setup process and layout of these different tools
 3. filter through log data in each tool to find a failed login attempt
+4. implement dashboards to monitor data of our choosing
+5. create a security rule that triggers when 5 failed login attempts occur in 5 minutes
 
 ## Tools Used
 - Splunk SIEM
