@@ -10,7 +10,7 @@ The objectives for this sublab are to:
 1. Download and setup the Wazuh Core Components (Indexer, Server, Dashboard) on Ubuntu Server 22.04
 2. Download and stup the Wazuh Agent on our Windows Device
 3. Explore the Wazuh UI
-4. Trigger an alert on the dashboard from our Windows 10 Agent
+4. Find a failed login attempt by filtering through log data
 
 ## Guide
 ### Step 1: Installing Ubuntu Server
