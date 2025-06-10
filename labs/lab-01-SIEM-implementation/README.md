@@ -11,7 +11,6 @@ The goals of this lab are to
 - Wazuh SIEM
 - QRadar SIEM
 - Windows 10 (Target Device)
-- Kali Linux (Attacker Device)
 
 ## Explanation of Lab Setup
 I am running all of these tools on a proxmox cluster that I have running on my homelab. The only caveats to the lab are that the SIEMs have to have access to the traffic on the network that the Windows 10 and Kali VM are on. I did this through VNETs on proxmox but you could do this by just bridging the devices on to your normal network subnet since we aren't dealing with malware in these labs. This is not a networking environment tutorial so do what is best for your own lab.
