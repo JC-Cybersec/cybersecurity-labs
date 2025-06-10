@@ -11,6 +11,8 @@ The objectives for this sublab are to:
 2. Download and stup the Wazuh Agent on our Windows Device
 3. Explore the Wazuh UI
 4. Find a failed login attempt by filtering through log data
+5. Create a dashboard that shows a timeline of failed login attempts
+6. Create a security rule that triggers when there are 5 failed login attempts within 5 minutes
 
 ## Guide
 ### Step 1: Installing Ubuntu Server
